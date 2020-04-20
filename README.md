@@ -1,14 +1,4 @@
 # #QuaretenaDados
 > Primeiros passos em **ciência de dados**, explorando dados e entendendo os princípios básicos por trás desta ciência. 
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
- 
+São cinco aulas, utilizando jupyter notebook e pythins para enternder, explorar e analisar dados da base de filmes do MovieLens e também do ENEM. Com o apoio da comunidade [DataHackers](https://datahackers.com.br/) e de umas das mais importantes empresas de tecnologia do Brasil, a [Movile](https://movile.blog/).
