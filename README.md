@@ -17,8 +17,10 @@ Bases de dados utilizadas:
 
 Conhecendo o Google Colab, o Jupyter Notebook, o Python e a biblioteca Pandas. Abrindo, investigando e análisando as primeiras bases de dados.
 
-## Aula 2 - Visualização de dados
-Não basta montar gráficos, eles precisam contar uma história honesta e transparente.
+## [Aula 2 - Médias, medianas e visualização de dados](https://www.alura.com.br/quarentenadados/aula02-visualizacao-de-dados)
+> Não basta montar gráficos, eles precisam contar uma história honesta e transparente.
+
+Aprendendo alguns pontos da estatística de forma bastante prática, principalmente sobre média, medianas e sobre as boas práticas na hora de exibir dados. Uma média pode esconder muita coisa, em especial como esse valor é distribuído.
 
 ## Aula 3 - Estatística prática
 Números, testes e comparações para saber se é o caminho certo.
