@@ -22,8 +22,10 @@ Conhecendo o Google Colab, o Jupyter Notebook, o Python e a biblioteca Pandas. A
 
 Aprendendo alguns pontos da estatística de forma bastante prática, principalmente sobre média, medianas e sobre as boas práticas na hora de exibir dados. Uma média pode esconder muita coisa, em especial como esse valor é distribuído.
 
-## Aula 3 - Estatística prática
-Números, testes e comparações para saber se é o caminho certo.
+## [Aula 3 - Correlações e Exploração de Dados](https://www.alura.com.br/quarentenadados/aula03-estatistica-na-pratica)
+> Números, testes e comparações para saber se é o caminho certo.
+
+Explorando uma base de dados maior e fazendo correlações.
 
 ## Aula 4 - Técnicas em ciências de dados
 Conhecendo mais a fundo as técnicas e bibliotecas do Python.
