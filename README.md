@@ -27,8 +27,10 @@ Aprendendo alguns pontos da estatística de forma bastante prática, principalme
 
 Explorando uma base de dados maior e fazendo correlações.
 
-## Aula 4 - Técnicas em ciências de dados
-Conhecendo mais a fundo as técnicas e bibliotecas do Python.
+## [Aula 4 - Estatísticas no ENEM 2018](https://www.alura.com.br/quarentenadados/aula04-estatisticas-correlacoes-enem)
+> Conhecendo mais a fundo as técnicas e bibliotecas do Python.
+
+Conhecendo, explorando e preparando os dados para criar um modelo de machine learning na última aula.
 
 ## Aula 5 - Previsões e Machine Learning
 Usando os algoritmos conhecidos para regressão e traçando previsões de diferentes formas.
