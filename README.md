@@ -32,5 +32,7 @@ Explorando uma base de dados maior e fazendo correlações.
 
 Conhecendo, explorando e preparando os dados para criar um modelo de machine learning na última aula.
 
-## Aula 5 - Previsões e Machine Learning
-Usando os algoritmos conhecidos para regressão e traçando previsões de diferentes formas.
+## [Aula 5 - Modelo de Regressão e Machine Learning](https://www.alura.com.br/quarentenadados/aula05-regressao-machine-learning)
+>Usando os algoritmos conhecidos para regressão e traçando previsões de diferentes formas.
+
+Trabalhando na base do ENEM 2018 e criando um modelo de Machine Learning.
